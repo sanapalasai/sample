@@ -1,0 +1,35 @@
+*{
+  text-align: center;
+  font-family: pacifico,sans-serif,verdana;
+  margin: 0;
+}
+body{
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+header{
+  padding: 1.5rem 0.2rem;
+  text-shadow: 0.1rem 0.5rem 0.6rem #ffffff;
+  border-radius: 0rem 0rem 1.5rem 1.5rem;
+}
+.container{
+  padding: 1rem 0.2rem;
+}
+.first{
+}
+#up{
+  flex: 1;
+}
+li{
+  list-style-type: none;
+}
+table{
+  margin: 0  auto;
+}
+nav{
+  display: none;
+}
+nav li{
+  padding: 0.3rem;
+}
